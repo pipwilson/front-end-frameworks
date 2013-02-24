@@ -50,7 +50,7 @@ Skeleton is a small collection of CSS files that can help you rapidly develop si
 
 HTML KickStart is an ultra–lean set of HTML5, CSS, and jQuery (javascript) files, layouts, and elements designed to give you a headstart and save you 10's of hours on your next web project.  
 
-**Responsive:** No  
+**Responsive:** Yes
 
 **Website:** http://www.99lime.com/
 
